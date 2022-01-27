@@ -33,8 +33,8 @@ Let's draw with one stroke. Enjoy the randomness and have fun! :)
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Ai Jian -  aijiandev@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/github_username/repo_name](https://github.com/meowwwowo/Drawing-Board)
 
 
