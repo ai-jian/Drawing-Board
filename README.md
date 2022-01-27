@@ -2,7 +2,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot](drawing5.png)
 Let's draw with one stroke. Enjoy the randomness and have fun! :)
 
 
