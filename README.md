@@ -6,7 +6,7 @@
 Let's draw with one stroke. Enjoy the randomness and have fun! :)
 
 
-### Major functions & instruction
+## Major functions & instruction
 
 - Click the button on the left top to start drawing.
 - Change the bush sizes of rectangle and ellipse by slowly or fast moving your mouse.
@@ -14,17 +14,17 @@ Let's draw with one stroke. Enjoy the randomness and have fun! :)
 - Press RETURN to change a background color and get a new canvas.
 - Press "S" to save your drawing.
 
-### Deploy
+## Deploy
 
-[click to play](https://meowwwowo.github.io/Drawing-Board/)
+[Click to play](https://meowwwowo.github.io/Drawing-Board/)
 
 
-### Built With 
+## Built With 
 
 * HTML/CSS
 * JavaScript
 * [p5.js](https://p5js.org/)
-* ❤️❤️❤️
+* ❤️
 
 
 
