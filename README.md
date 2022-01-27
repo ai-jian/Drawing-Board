@@ -2,8 +2,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot](https://github.com/meowwwowo/Drawing-Board/blob/main/drawing-5.png)
 Let's draw with one stroke. Enjoy the randomness and have fun! :)
+[![Product Name Screen Shot][Screen Shot of the Drawing Board](https://github.com/meowwwowo/Drawing-Board/blob/main/drawing-5.png)
 
 
 ## Major functions & instruction
