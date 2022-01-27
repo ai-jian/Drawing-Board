@@ -3,7 +3,7 @@
 ## About The Project
 
 Let's draw with one stroke. Enjoy the randomness and have fun! :)\
-[![Drawing board Screen Shot]](https://github.com/meowwwowo/Drawing-Board/blob/main/Screen%20Shot%202022-01-27%20at%2012.44.11%20AM.png)
+![Drawing board Screen Shot](https://github.com/meowwwowo/Drawing-Board/blob/main/Screen%20Shot%202022-01-27%20at%2012.44.11%20AM.png)
 
 
 ## Major functions & instruction
