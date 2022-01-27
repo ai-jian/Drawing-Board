@@ -29,12 +29,3 @@ Let's draw with one stroke. Enjoy the randomness and have fun! :)
 
 
 
-
-<!-- CONTACT -->
-## Contact
-
-Ai Jian -  aijiandev@gmail.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/meowwwowo/Drawing-Board)
-
-
