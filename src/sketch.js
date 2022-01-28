@@ -11,14 +11,12 @@
 */
 
 
-
-var cc = 0;
+let cc = 0;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
   colorMode(RGB, 255);
   background(255, 212, 226);
-
 }
 
 function draw() {
@@ -150,7 +148,7 @@ function draw() {
   //x
   if (cc == 3) {
     let m = random(255);
-    stroke((2 * frameCount) % 300, m, 190, 200);
+    stroke((2 * frameCount) % 300, m, 190, m);
     line(250, 25, 250, 36);
     line(245, 30, 255, 30);
 
@@ -184,7 +182,7 @@ function draw() {
 //clean up
 function keyPressed() {
   if (keyCode === RETURN) {
-    background((2 * frameCount) % 300, 130, 190);
+    background((2 * frameCount) % 255, random(100, 155), random(155, 255));
   }
 }
 
@@ -196,3 +194,9 @@ function keyTyped() {
 
 }
 
+//responsive sizes
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
+  background(255, 212, 226);
+
+}
